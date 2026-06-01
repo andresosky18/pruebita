@@ -52,13 +52,13 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="Win Sports +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241" group-title="DEPORTIVO",Win Sports +
-http://38.250.190.45:8000/play/a0e6/index.m3u8
+http://liontv.es:80/live/NESTORCHI/GRETF/338231.ts
 
 #EXTINF:-1 tvg-id="Win.Sports.HD.co" tvg-name="Win Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241" group-title="DEPORTIVO",Win Sports + HD
 http://181.78.79.131:8000/play/a0n1
 
 #EXTINF:-1 tvg-id="Win.Sports.HD.co" tvg-name="Win Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241" group-title="DEPORTIVO",Win Sports + HD
-http://38.250.190.45:8000/play/a0e6/index.m3u8
+http://liontv.es:80/live/NESTORCHI/GRETF/358392.ts
 
 #EXTINF:-1 tvg-id="Directv.Sports.co" tvg-name="Directv Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DEPORTIVO",Directv Sports
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125646.ts
@@ -88,7 +88,7 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.co" tvg-name="ESPN Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ESPN_Deportes.png" group-title="DEPORTIVO",ESPN Deportes
-https:\/\/la14hd.com\/vivo\/canales.php?stream=espndeportes
+http://liontv.es:80/live/NESTORCHI/GRETF/507366.ts
 
 #EXTINF:-1 tvg-id="Espn.1.MEX.co" tvg-name="Espn 1 (MEX)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTIVO",Espn 1 (MEX)
 http://45.5.119.43:4000/play/a052/index.m3u8
@@ -100,10 +100,10 @@ http://38.224.172.198:8000/play/a00f/index.m3u8
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTIVO",Espn 1 (Col)
-http://181.78.7.90:12500/play/a0pv/index.m3u8
+http://liontv.es:80/live/NESTORCHI/GRETF/358395.ts
 
 #EXTINF:-1 tvg-id="Espn.1.Arg.co" tvg-name="Espn 1 (Arg)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTIVO",Espn 1 (Arg)
-http://181.78.14.26:4000/play/a05b/index.m3u8
+http://liontv.es:80/live/NESTORCHI/GRETF/335366.ts
 
 #EXTINF:-1 tvg-id="Espn.1.Chi.co" tvg-name="Espn 1 (Chi)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTIVO",Espn 1 (Chi)
 http://45.160.13.201:8000/play/212
