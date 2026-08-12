@@ -31119,3 +31119,6 @@ http://190.60.49.242:4000/play/a0n7/index.m3u8
 #EXTINF:0,Zoom
 #EXTVLCOPT:network-caching=1000
 http://190.60.49.242:4000/play/a01b/index.m3u8
+
+#EXTINF:0,Win Sports+
+http://190.60.37.118:4000/play/a0bw
