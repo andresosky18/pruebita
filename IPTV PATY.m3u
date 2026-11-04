@@ -32635,3 +32635,19 @@ http://181.78.82.130:8000/play/a0oq/index.m3u8
 http://181.78.82.130:8000/play/a0qs/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://181.78.82.130:8000/play/a0ds/index.m3u8
+
+
+
+#EXTINF:-1,win sports
+http://217.26.190.76:8888/play/a06a/index.m3u8
+#EXTINF:-1,Win Sports
+http://181.78.82.130:8000/play/a0qs/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.82.130:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT +
+#EXTVLCOPT:network-caching=1000
+http://190.2.213.220:8000/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a06v/index.m3u8
